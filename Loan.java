@@ -51,6 +51,6 @@ public class Loan{
   }
   //toString
   public String toString(){
-    return "Loan ID: " + ID + "\nLoan Amount: " + loanAmount + "\nCountry: " + country + "\nDays taken to Fund: " + daysToFund + "\nNumber of Lenders: " + numLenders;
+    return "Loan ID: " + ID + " Loan Amount: " + loanAmount + " Country: " + country + " Days taken to Fund: " + daysToFund + " Number of Lenders: " + numLenders;
   }
 }
